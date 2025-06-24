@@ -1,6 +1,9 @@
 # Pulsar-Data-Analysis
 # Vela Pulsar Signal Analysis
 
+[Download the dataset here](https://drive.google.com/file/d/1wCwNoUrMRyLjL6-RouWE7sEKYJYAJe2L/view?usp=sharing)
+
+
 This project was developed during a summer research internship and focuses on analyzing Vela pulsar radio signals using Python in Google Colab.
 - Performed Fast Fourier Transform (FFT) to extract frequency components from raw signal data
 - Generated power and dynamic spectra to visualize signal strength over time and frequency
