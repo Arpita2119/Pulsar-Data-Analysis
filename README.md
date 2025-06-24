@@ -3,6 +3,8 @@
 
 [Download the dataset here](https://drive.google.com/file/d/1wCwNoUrMRyLjL6-RouWE7sEKYJYAJe2L/view?usp=sharing)
 
+[Pulsar_Signal_Analysis.ipynb](https://colab.research.google.com/drive/1XLyyoq3ztbgxiAcbuhO9RsiMgLff0Scd?usp=sharing)
+
 
 This project was developed during a summer research internship and focuses on analyzing Vela pulsar radio signals using Python in Google Colab.
 - Performed Fast Fourier Transform (FFT) to extract frequency components from raw signal data
