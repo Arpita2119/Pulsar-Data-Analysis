@@ -6,7 +6,7 @@
 [Run in Google Colab](https://colab.research.google.com/github/Arpita2119/Pulsar-Data-Analysis/blob/main/Pulsar_Signal_Analysis.ipynb)
 
 
-This project was developed during a summer research internship and focuses on analyzing Vela pulsar radio signals using Python in Google Colab.
+This project was developed during a summer research internship and focuses on analysing Vela pulsar radio signals using Python in Google Colab.
 - Performed Fast Fourier Transform (FFT) to extract frequency components from raw signal data
 - Generated power and dynamic spectra to visualize signal strength over time and frequency
 - Applied dedispersion using dispersion measure (DM) to correct time delays in signal
