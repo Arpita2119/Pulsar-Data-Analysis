@@ -8,6 +8,7 @@ This project was developed during a summer research internship and focuses on an
 - Folded and fit the pulse profile using Gaussian models to study pulse shape
 
 The dataset 'New Data' is a plain text file containing voltage time series data. It is read using `pandas.read_table()` with appropriate delimiters.
+
 #Tools Used
 - Python (NumPy, Pandas, Matplotlib, SciPy)
 - Google Colab
